@@ -3,6 +3,7 @@ import pandas as pd
 import csv 
 import sqlite3
 import numpy as np
+import openpyxl
 
 
 
@@ -87,7 +88,6 @@ df_productos = pd.DataFrame(productos, columns=["Nombre", "Precio", "Cantidad en
 
 st.write("### Productos en Inventario")
 st.dataframe(df_productos)
-
 
 
 
