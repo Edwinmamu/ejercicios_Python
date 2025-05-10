@@ -130,7 +130,7 @@ with col2:
     st.markdown('<h3 style="color: #0066cc; margin-top: 0px;">Edwin Martinez</h3>', unsafe_allow_html=True)
     st.markdown('<p style="margin-top: 10px;">Programa: <span style="color: #0066cc; font-weight: bold;">Desarrollo de Software</span></p>', unsafe_allow_html=True)
     st.markdown('<p>Semestre: <span style="color: #0066cc; font-weight: bold;">2025-1</span></p>', unsafe_allow_html=True)
-    st.markdown('<p>Repositorio: <a href="https://github.com/Edwinmamu/Proyecto_Planit.git" target="_blank" style="color: #0066cc; font-weight: bold; text-decoration: none;">GitHub</a></p>', unsafe_allow_html=True)
+    st.markdown('<p>Repositorio: <a href="https://github.com/Edwinmamu/ejercicios_Python.git" target="_blank" style="color: #0066cc; font-weight: bold; text-decoration: none;">GitHub</a></p>', unsafe_allow_html=True)
    
 
 
